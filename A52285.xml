@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cabinet of Hell unlocked, or, The late grand conspiracy emblazon'd with practical reflections thereon : in a sermon / preached at Havant April 16th 1696, being the publick day of thanksgiving, published at the importunity of the hearers by C.N. ...</title>
+            <author>Nicholets, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52285</idno>
+            <idno type="STC">Wing N1085</idno>
+            <idno type="STC">ESTC R38116</idno>
+            <idno type="EEBO-CITATION">17194904</idno>
+            <idno type="OCLC">ocm 17194904</idno>
+            <idno type="VID">106144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1620:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cabinet of Hell unlocked, or, The late grand conspiracy emblazon'd with practical reflections thereon : in a sermon / preached at Havant April 16th 1696, being the publick day of thanksgiving, published at the importunity of the hearers by C.N. ...</title>
+                  <author>Nicholets, Charles.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Marshall ... and John Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Nicholets by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XXIII, 13 --  Sermons.</term>
+               <term>Thanksgiving Day addresses.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106144:1" rendition="simple:additions"/>
+            <p>THE Cabinet of HELL UNLOCKED: OR, THE LATE <hi>Grand Conſpiracy</hi> EMBLAZON'D: With Practical Reflections thereon. IN A SERMON <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ched at HAVANT <hi>April</hi> 16th 1696. Being the Publick Day of Thankſgiving: Publiſh<g ref="char:EOLhyphen"/>ed at the Importunity of the Hearers.</p>
+            <p>By <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Miniſter of the Goſpel there.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106144:2"/>
+            <pb facs="tcp:106144:2"/>
+            <head>To the Honourable Richard Norton, <abbr>Eſq</abbr> Knight of the Shire for the County of SOUTHAMPTON.</head>
+            <opener>
+               <salute>SIR!</salute>
+            </opener>
+            <p>THIS Sermon Preached upon a Publick Occaſion, and now Printed for a Publick End; the Law of Cuſtom requires it ſhould be Preſented to a Publick Perſon; and to whom more ſit than your ſelf, our Worthy Repreſentative in Parliament: But beſides, their is a more particular reaſon which obliges this Dedi<g ref="char:EOLhyphen"/>cation; your Candid Expreſſing your ſelf to ſome Friends, who waited on you before the laſt Election, in ſuch a manner as have ſecured your Intereſt in the Affections of the Beſt and moſt Sober Inhabitants in <hi>Hampſhire:</hi> So that a New Election will be but a repeated Confirma<g ref="char:EOLhyphen"/>tion of the ſame Perſon: Your Generous Preſenting the Diſſenting Miniſters Aſſociation to his Majeſty, has bound me in Gratitude, to return you Publick Thanks.</p>
+            <p>
+               <hi>SIR!</hi>
+            </p>
+            <p>It has been very delightful to me, to hear of your Exemplary <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>briety and great Civility, above the common rate of the Gentle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en of our Age. Now may that God who has made you Great, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke you Good, and incline your heart to the Purity of Religion,
+<pb facs="tcp:106144:3" rendition="simple:additions"/>which as it is the Greateſt Comfort of a Chriſtian, ſo it will be the beſt Ornament of a Gentleman. You have a great Coppy to write after, if you ſurvey the Life of your Renowned Grandfather, whoſe memory is precious in the hearts of the beſt among us. As you enjoy his Eſtate, my hearty prayer is, that you may Inherit his Vertues, which to our comfort you have given no ſmall hopes of: Go on Worthy Sir, to do Worthily in <hi>Ephrata,</hi> that you may be for ever Famous in our <hi>Bethlehem:</hi> So begging Pardon for my Preſumption, I ſhall trouble you no further, but Subſcribe my ſelf,</p>
+            <closer>
+               <signed>A Real Honourer of Your Worth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:106144:3"/>
+            <head>A Thankſgiving SERMON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 23.</hi> v. <hi>13.</hi>
+                  </bibl>
+                  <p>There were more than Forty which had made this Conſpiracy.</p>
+               </q>
+            </epigraph>
+            <p>IF a Man would give liberty to his Thoughts to expatiate upon ſo odious a Theme as Malice, What direful, what unaccountable, what incredible Effects, as ſo many frighting Spectrums, would immediately preſent to his view? Innocent <hi>Abel</hi> weltring in his Blood, through the envy of his Inhuman Brother, <hi>Cain:</hi> Poor Unthinking <hi>Abner,</hi> falling a Bleeding Sacrifice to the imperious <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt of Inveterate <hi>Joab:</hi> The Women of <hi>Ramah,</hi> in Horrible Amazment and Confuſion, Venting their heart-breaking dolours in gaſtly Accents, for the Tragical Exit of their Tender Babes, ſnacht out of their arms and Maſſacred before their eyes, to ſatisfie the Ambitious Humour of a more than Barbarous <hi>Herod.</hi>
+            </p>
+            <p>But what need we ſtand upon inſtances, when there are legions, or rather many legions of them? What need we turn over the leaves of Aged Re<g ref="char:EOLhyphen"/>cords? Or ranſack the Caverns of Antiquity? When we have examples more than enough recent in our own memories; and without troubling our ſelves to caſt an eye over the water, for entertaining our thoughts with the melancholy ſubject, of the Deſolation of Towns and Families, of Churches and Societies, the proper genuine effects of one Tyrants Malice: We may have enough and to ſpare in reſtraining our conceptions to our own Land, and to our own Day.</p>
+            <p>There are a ſort of Vermin (Men I cannot call them, without begging <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdon even of the race of <hi>Cham</hi>) known by the name of Jeſuits, or ra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er better known by their black Phyſiognomy, I mean, the very ſurface <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Actions, every of which is black indeed, through the tincture of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſulpherous ſoot, that Infernal Smoak with which their Souls are
+<pb n="6" facs="tcp:106144:4"/>wholly ſtained; by which they have arrived to the higheſt perfection of baſeneſs; and are in truth, become the greateſt, I had almoſt ſaid, the only plague to Mankind; ſo implacable in their Rage, ſo boundleſs in their Malice, ſo reſtleſs in their Attempts to advance the Devils Kingdom, or which is all one, the Popes Intereſt; that they have not ſtuck to foment National Wars, to encourage Private Aſſaſſinations, and to commit ſuch tremenduous and unheard of Abominations, as have made the Heavens bluſh, the Earth to groan, and all People with horror to be Amazed; ſo that I think it hardly an Hyperbole to conclude, <hi>They have out done their Father the Devil.</hi>
+            </p>
+            <p>Could we only hear of theſe Wretched Caitifs, playing their pranks in ſome remote corner of the Earth, or ſhining in their proper Sphere, circled within the tropicks of their own Cloiſter;; we might ſtand alo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> off and gaze without much ſenſitive apprehenſion, or perticular reflection on our danger at home.</p>
+            <p>But alas! Theſe Egyptian Locuſts, theſe limbs of the Devil, theſe firebrands of Hell, that embroil Crowned Heads, that deſturb the peace of <hi>Europe,</hi> that turn the World upſide-down, have ſet their cloven f<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in this our Iſland alſo; and made it their Theatre to act their Tragi-com<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dies on; I call them ſo, for though they deſigned them purely Tragical Heaven hath made the Event Comical, in detecting their Devices, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blaſting their Contrivances, and in bringing all their deep laid Project to nought.</p>
+            <p>To paſs by all others, I ſhall ſix upon the deſign of this day; which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is the lateſt, ſo I hope the laſt, I am ſure the blackeſt of all the reſt <hi>the hand of</hi> Joab <hi>was in all this;</hi> the finger of the Jeſuite in every part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it; not one or two, but many, a great many; <hi>For there were more th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Forty that made this Conſpiracy.</hi>
+            </p>
+            <p>Contriving the ruine of Good Men, is no new thing, or of yeſterday Invention; no, no, it was long ſince hatched in Hell, and practiced o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth; ſo the ſpirit of God tells us, Pſal. 37.12. <hi>The Wicked: plott<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> againſt the Juſt, and gnaſheth upon him with his teeth;</hi> they are always bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing their brains to bring the Righteous into Trouble; but the want o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſucceſs in the accompliſhment, makes them gnaſh their teeth out of mad<g ref="char:EOLhyphen"/>neſs and vexation. <hi>Eliphas</hi> declares the vanity and inſignificancy of ſuch Contrivances, from the determined purpoſe of God to countermine them Job. 5.12.13. <hi>He diſappointeth the devices of the crafty, ſo that their hand cannot perform their Enterprizes; he taketh the wiſe in their own craftineſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:106144:4"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> counſel of the froward is carried headlong.</hi> They that go out of God's way, into the devils dark chamber to Plot, cannot expect the light of Heaven to guide them to a fair event. No wonder then, that Councils though never ſo deep; that Projects, though never ſo crafty, are ſtill blaſted, like graſs upon the houſe top, that never comes to maturity; and that not only the ſingle conceptions of one or two, but the united Combinations of never ſo many; yea, though <hi>there were more than Forty in it.</hi>
+            </p>
+            <p>I ſhall (as introductory to my following diſcourſe) give you ſome ac<g ref="char:EOLhyphen"/>count of Plots in former times, which may ſerve as a ſoil to ſet off the luſtre of this late one; for we muſt not aſcribe more honour to the Jeſuits than is their due; as if they were the firſt authors and contrivers of Plots; no, no, they have had elder breethren; but this honour does properly and peculiarly belong to them, of being the moſt perfect and accurate maſters in this Diabolical Art.</p>
+            <p>The Firſt I ſhall inſtance in, is in the 2 Sam. 15.12. <hi>And</hi> Abſalom <hi>ſent for</hi> Ahithophel <hi>the Giboanite,</hi> David<hi>'s Counſellor, from his City, even from</hi> Gilob, <hi>while he offered Sacrifices; and the Conſpiracy was ſtrong, for the People <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>reaſed continually with</hi> Abſalom. But that we know the date of the Je<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uits, and from whence they had their original; we could not but certain<g ref="char:EOLhyphen"/>ly conclude, that <hi>Abſalom</hi> and his accomplices, were of the ſame ſtamp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or he is here offering Sacrifices, a badg of Religion; and in his panick <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of zeal, ſending for <hi>Ahithophel</hi> to help to carry on the deſign, appear<g ref="char:EOLhyphen"/>ing thereby to the world to be Religious, while in the eye of Heaven he was moſt horridly Rebellious: Well, that Conſpiracy, though much of a complexion of this, for the diſcovery of which, we are met to praiſe God this day; yet it comes not up to it by many ſteps; for to let paſs what of Divine Juſtice there might be in it as a puniſhment for <hi>David</hi>'s ſin of Poligamy; we find <hi>Abſalom</hi> and <hi>Achitophel</hi> in the open field, ſhewing themſelves in their own collours, declaring plainly what they deſigned and what they would be at, and thereby gave <hi>David</hi> an oppertunity to provide for his ſafety: But this Conſpiracy was hatch'd in the dark, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be executed on a ſudden; the Fatal Blow was to be given without any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evious warning; they were reſolved that none ſhould know or ſee, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they came upon the Lords Anointed, and ſlew him, and put out the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of our eyes in one day: Well, what was the iſſue, <hi>Achitophel</hi> hanged <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf, <hi>Abſalom,</hi> by an awful ſtroke from Heaven, came to the ſame end; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch end, hath overtaken ſeveral of our Conſpirators, and many more
+<pb n="8" facs="tcp:106144:5"/>are coming towards it; ſo truly, ſo litterally hath God fulfilled that p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> miſe to our preſent Soveraign, which he made to his Royal Predeceſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Pſalm 132.18. <hi>His Enemies will I cloth with ſhame, but upon himſelf ſh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> his Crown flouriſh;</hi> and let all <hi>Engliſh</hi> hearts, and real Proteſtants, eve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more cry out, <hi>Amen, Amen.</hi>
+            </p>
+            <p>The next Plot we find, 2 Kings 12.20. <hi>And his Servants aroſe and mad<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Conſpiracy, and ſlew</hi> Joaſh <hi>in the houſe of</hi> Millo, <hi>which goeth down to</hi> Sill<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> This was a baſe, horrid, abominable Murder; but yet far ſhort of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> intended Aſſaſſination upon our King; for we do not read they went any further, they did not make a Slaughter among the People, or endeavour to ſubject the Land to a Forreign Yoke, for his ſon <hi>Amaziah</hi> reigned in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtead: But in this abominable Conſpiracy, not only the King, but a mul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>titude of others would have been Butchered; and God knows what th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſequence would have been, if the Almighty had not given us the ava<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>David</hi>'s Petition without being ſought unto. 2 <hi>Sam.</hi> 15.31. <hi>And o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> told</hi> David, <hi>ſaying,</hi> Ahithophel <hi>is among the Conſpirators; and</hi> David <hi>ſaid O Lord I pray thee turn the Counſels of</hi> Ahithophel <hi>into Folly:</hi> Our Graciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God befooled their Councils, and infatuated them in their Undertakings and Bleſſed, O Bleſſed be his Name for ever.</p>
+            <p>The next Contrivance, is in the 2 Kings 15.10. <hi>And</hi> Shallum <hi>the ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of</hi> Jabiſh <hi>conſpired againſt him, and ſmote him before the People, and reigne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his ſtead;</hi> and this is further remarked <hi>v.</hi> 15. <hi>And the reſt of the Acts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Shallum <hi>and his Conſpiracy which he made, behold they are written in the boo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Chronocles of the Kings of Iſrael.</hi> This indeed was a great evil, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> far ſhort of what we are commemorating; for here was one wicked ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſetting himſelf againſt another, and ſo the event could not be much miſ<g ref="char:EOLhyphen"/>chievious, becauſe both under a curſe, and both liable to deſtruction. Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 31.1. <hi>Is not deſtruction to the wicked, and a ſtrange puniſhment to the worker of Iniquity:</hi> and I do not know but this may be one of the ſtrange Puniſh<g ref="char:EOLhyphen"/>ments, to plot and contrive one anothers ruine: But in this Plot, here were Papiſts againſt Proteſtants, the worſt againſt the beſt of Men; the Son of Darkneſs againſt the Children of the Bride Chamber.</p>
+            <p>The laſt inſtance I ſhall give, is that in the Text, Acts 23.12. <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> when it was day, certain of the Jews banded together, and bound themſelves <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der a Curſe, that they would neither eat or drink till the had killed</hi> Paul: T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> word in the Original, is Conſecration; and uſed here only (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know of) in a bad ſenſe; they ſeperated, devoted, and ſolemnly gave themſelves to perpetrate this wicked act of killing <hi>Paul:</hi> This <hi>ban<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="9" facs="tcp:106144:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſomewhat like the late curſed deſign of Murdering our Indeared So<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>gn, yet it did not come up to it, but was a great deal below it; for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (though an Eminent Preacher) was in a low ſtate; but here was a King, a Crowned King, and one of the Heroes of the Age, mark'd out for Deſtruction, who could have no Enemies but the ſons of <hi>Belial.</hi> 1 Sam. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.9. <hi>And</hi> David <hi>ſaid to</hi> Abiſhai, <hi>destroy him not, for who can ſtretch forth his hand againſt the Lords Anointed and be guitleſs:</hi> O what a load of guilt then muſt theſe Miſcreants have brought upon their heads in this Helliſh Conſpiracy, who horridly deſign'd to imbrue their hands in their Sove<g ref="char:EOLhyphen"/>raigns Blood.</p>
+            <p>Having thus given a brief account of ſome Conſpiracies in former times, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come now to take notice of this late one; but alaſs! <hi>Vox faucibus haeret,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> want Language, I am at a loſs for Words; our bleſſed Lord ſeemeth to be at a ſtand, how to ſpeak aptly of ſo hardened and blinded a ſort of men as were in his days. Mat. 11.16. <hi>But whereunto ſhall I liken this gene<g ref="char:EOLhyphen"/>ration.</hi> Truly in the ſame ſtrait am I, O whereunto ſhall I liken theſe Curſed Plotters and Conſpirators, who have ſo far out-gon all that ever went before them (if we reſpect the Bloodineſs of the deſign, and deſpe<g ref="char:EOLhyphen"/>rateneſs of the Attempt, the perniciouſneſs of the conſequence had it taken effect) that theſe, though born long after, are verily the elder Breethren in Iniquity; as our Saviour ſaid of the Phariſees, John 8.44. <hi>Ye are of your Father the Devil, and the Luſts of your Father ye will do.</hi>
+            </p>
+            <p>
+               <hi>He was a Murderer from the Beginning</hi> — Indeed no Age hath pro<g ref="char:EOLhyphen"/>duced ſuch Monſters, or rather Murderers, ſo exactly like their father the Devil, as theſe have appeared to be: Men ſo eagerly bent in their determination, <hi>
+                  <g ref="char:V">Ʋ</g>t omnia Humana peſsum iri veliut;</hi> They Deſigned! but I Tremble! I Tremble in the thoughts of it! I muſt draw a Sable Cur<g ref="char:EOLhyphen"/>tain over this Plutonick Seene; only to tell you in general, they deſigned to make our Land an <hi>Aceldema,</hi> our Houſes a <hi>Golgotha,</hi> and every Town and City a <hi>Ramah,</hi> wherein nothing but bitter Mourning and Lamenta<g ref="char:EOLhyphen"/>tion would have been heard; take the ſcheme of the Project in theſe following particulars, <hi>wherein more than Forty had a hand.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> This was a Conſpiracy wherein not only mean Men, Men of deſperate Fortunes, but Great Men, Men of all Ranks and Qualities, yea Men of the Greateſt Rank of all were concerned and deeply engaged <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, as we read 2 King 17.4. <hi>And the King of Aſſiria found conſpiracy in Hoſhea, for he had ſent Meſſingers to</hi> So <hi>King of</hi> Egypt.</p>
+            <p>'Tis ſtrange the Viper of Conſpiracy ſhould breed in the breaſt of
+<pb n="10" facs="tcp:106144:6"/>Kings! Of Crowned Kings! This makes it the more odious and loath<g ref="char:EOLhyphen"/>ſome; the Nobleneſs of the Blood, enhanceth the foulneſs of the Action; that Crime, in a Perſon of High Quality, ſeems abominable, which in a Man of baſe Extraction, would be lookt upon as common. This was that that made <hi>Jeruſalem</hi> look ſo black in the eye of Heaven, this was that which filled up the Epha of her Abominations, Iſa. 1.23. <hi>Thy Prin<g ref="char:EOLhyphen"/>ces are Rebellious and companions of Thieves.</hi>
+            </p>
+            <p>Not only her Porters, her Carters, her Mechanicks, but her Princes were Rebellious.</p>
+            <p>And this made her Rebellion cry the louder for Vengeance, becauſe Princes were in it; and this blackens the Conſpiracy of this day, that it was not contemptible Ruffains, or profligate Ravilacks only, out Great Men, yea Princes were Patrons of it.— But I am loth, and truly aſham<g ref="char:EOLhyphen"/>ed to enlarge any further on this head: and therefore,</p>
+            <p>
+               <hi>Secondly,</hi> This was a Conſpiracy perſuing (though tranſcending) for<g ref="char:EOLhyphen"/>mer Conſpiracies of the ſame nature and deſign; as we find, Jer. 11.9, 10. <hi>The Lord ſaid unto me, a Conſpiracy is found among the Men of</hi> Juda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>and among the Inhabitants of</hi> Jeruſalem, <hi>they are turned back to the Iniquity of their fore-fathers. Nulli enim conjurant ni prius Perduellem animum indue<g ref="char:EOLhyphen"/>rint,</hi> is a Learned Mans note upon the place: There was the ſame Luſt reigning in them as in their Fore-Fathers, and therefore they took the ſame courſe. So that there is a Conſpiracy found among the Miſcreants of this Age, which doth ſhew they looked with a pleaſing Aſpect upon the acti<g ref="char:EOLhyphen"/>ons of their Fore-Fathers, and were reſolved to perfect what they ſuc<g ref="char:EOLhyphen"/>ceſsleſly, though moſt maliciouſly, attempted: The Deſtruction of a Pro<g ref="char:EOLhyphen"/>teſtant King, a Proteſtant Parliament, a Proteſtant People, was the de<g ref="char:EOLhyphen"/>ſign of the Plot in 1605. known by the name of the <hi>Gunpowder-Treaſon,</hi> diſcovered by the Miraculous Providence of God; and the ſame deſign was vigorouſly ſet on foot, and brought almoſt to perfection in the year 1678. known by the name of <hi>Oats</hi>'s Plot, blaſted alſo by Heavens Inter<g ref="char:EOLhyphen"/>poſing Mercy.</p>
+            <p>And now all the powers of Hell were cloſe at work in this Conſpiracy, in doing the very ſame thing. The King was to have been baſely Mur<g ref="char:EOLhyphen"/>dered, the People inhumanly deſtroyed, and the whole Land laid in Blood and Confuſion; ſo that we may apply to the Conſpirators what our ſaviour ſaid to the Phariſees, Mat. 23.31.32 <hi>Wherefore be ye Witneſſes unto your ſelves, that ye are the Children of them which killed the Prophets, fill
+<pb n="11" facs="tcp:106144:6"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up then the meaſure of your Fathers:</hi> O ye Jeſuits! O ye Jacobites in this Plot! you have verily filled up the meaſure of your Fathers.</p>
+            <p>
+               <hi>Thirdly,</hi> This Conſpiracy was againſt the beſt of our Enjoyments, even the <hi>Proteſtant Religion;</hi> like that we read of Ezek. 22.25. <hi>There is a Con<g ref="char:EOLhyphen"/>ſpiracy of her Prophets in the midſt thereof, like a roaring Lyon ravening for the Prey; they have devoured Souls, they have taken the Treaſure and precious things, they have made her many Widdows in the midſt thereof.</hi> This was a Conſpiracy of the Papiſts and Popiſhly affected ones, to root the Pro<g ref="char:EOLhyphen"/>teſtant Religion out of the Land, and bring in the Abominable Idolatries of <hi>Rome;</hi> many efforts at ſundry times they have made towards it; but now like <hi>Sampſon,</hi> they leaned with their utmoſt force upon the Pillar, deſperately reſolving to race the Foundation, though they buryed them<g ref="char:EOLhyphen"/>ſelves in the Rubiſh: but Bleſſed be God the houſe of our Religion yet ſtands, and they in a fair way of coming to <hi>Sampſon</hi>'s ruin, without the ſatisfaction of his Succeſs.</p>
+            <p>They thought (and their thought was not amiſs) that the likelieſt way to attain their Curſed End, was to take off the Defender of the Faith, and therefore at his Life they levied; <hi>But he that ſitteth in the Heavens laughed them to ſcorn, the Lord had them in deriſion,</hi> and hath expoſed their Diabolick Projects to the indignation of all Mankind, and ſeveral of their Perſons to the juſt Execution of the Law: If they had prevailed againſt the Lords Anointed, Oh! How might we have named all our Comforts <hi>Ichabod?</hi> for the Glory would have departed from us, our Religion in all probabi<g ref="char:EOLhyphen"/>lity would have fallen with him. When <hi>Joſiah,</hi> that famous King of <hi>Judah,</hi> was ſlain at <hi>Hadadrimon</hi> in the Valley of <hi>Megiddo,</hi> the Ranſacking of the Temple, and carrying the Jews Captive to <hi>Babylon,</hi> was not long after; and hence we find the Prophet thus elegantly and emphatically be boaning of him, Lam. 4.20. <hi>The breath of our Noſtrils, the Anointed of the Lord was taken in their pit, of whom we ſaid, under his Shadow we ſhall live among the Heathens:</hi> While <hi>Joſiah</hi> Lived, he protected them from their Enemies, and kept up the purity of Religion amongſt them, and there<g ref="char:EOLhyphen"/>fore he was called, the Breath of their Noſtrils; but when he was gon, the the Enemy prevailed, their Glory was departed, and the poor Jews were forced to hang their Harps upon the Willow Trees. Ah! ſo would it have been with us, had this Conſpiracy ſucceeded.</p>
+            <p>
+               <hi>Fourthly,</hi> This was an Ungrateful Conſpiracy, near a kin to that in Gen. 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.18. <hi>And when they ſay him afar of, even before he came near unto <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, they conſpired againſt him to ſlay him; Joſeph</hi> was venturing his Life,
+<pb n="12" facs="tcp:106144:7"/>wandring in the Solitary Wilderneſs (in danger of being loſt, or devoured by Wild Beaſts) to find out his breethren, to bring their Fathers love to them, and to enquire of their Wellfare; and they in requital baſely Plot<g ref="char:EOLhyphen"/>ted and Contrived his Ruine. Juſt ſo hath our dear and dread Soveraign been dealt with: O! How often hath he expoſed his Royal Perſon, to the utmoſt of perrils, both by Sea and Land, for procuring the Peace of <hi>Europe,</hi> and for Staving off the Calamities of War from our doors? And this is the return he hath met with from theſe ungrateful Miſcreants, for all his care, for all his pains, for all his labour, even an inhuman contri<g ref="char:EOLhyphen"/>vance to take away his precious Life: Ah Poor Unhappy Prince! Unhap<g ref="char:EOLhyphen"/>py indeed in ſuch wretched Subjects Muſt thou be Awake, while others are Aſleep? Muſt thou be in the open Field, when others are in their ſei<g ref="char:EOLhyphen"/>led Houſes? Muſt thou be following the ſhrill noiſe of Drums and Trum<g ref="char:EOLhyphen"/>pets, when others are dancing after the ſweet muſick of the Harp and Viol? Muſt thou be looking upon Garments rouled in Blood, while others are enjoying the delights of the Sons of Men? And is this thy reward, to be encompaſſed about with Bulls of <hi>Baſhan?</hi> To have Devils incarnat, void of Generoſity or Humanity, banding together to bring thee to an untimely end? Now as <hi>Moſes</hi> upbraided the horrid ingratitude of the Jews, we may theirs. Deut. 32.6. <hi>Do you thus requite the Lord, Oh! Fooliſh Peo<g ref="char:EOLhyphen"/>ple and <g ref="char:V">Ʋ</g>nwiſe, is he not thy Father that bought thee, hath he not made thee and eſtabliſhed thee.</hi> He ſpeaks not here of their firſt Creation (as <hi>Kimhi</hi> well obſerves) for that is common to all; but of that ſpecial Favour vouchſaf<g ref="char:EOLhyphen"/>ed unto them, in making them his People, diſtinct from the reſt of the world; and <hi>Moſes</hi> calleth them fooliſh, noting them to be the worſt of Men: So do you thus requite the Lord ye ſons of <hi>Belial,</hi> ye monſters of Nature, ye Generation of Vipers: Is he not a King of the greateſt Good<g ref="char:EOLhyphen"/>neſs, the moſt Innocent Life, and of the moſt publick uſe that ever ſwayed the <hi>Engliſh Scepter?</hi> Hath he not retrieved the Land from Deſtruction? And muſt he be brought to Deſtruction himſelf for his ſo doing? O unpa<g ref="char:EOLhyphen"/>ralel'd Igratitude!</p>
+            <p>
+               <hi>Fifhly,</hi> This was a Linſy Woolſey Conſpiracy; a ſtrange mixture of Nations and Parties united together (though otherways of Sentiments differing enough) to oppoſe the Wellfare of our Zion; of the ſame mould with that we meet with, <hi>Neh.</hi> 4.7, 8. <q>But it came to paſs, that when <hi>Sanballet</hi> &amp; <hi>Tobiah,</hi> &amp; the <hi>Arrabians</hi> and the <hi>Ammonites,</hi> &amp; the <hi>Aſhbodites,</hi> heard that the Walls of <hi>Jeruſalem</hi> were made up, and the breaches began to be ſtopped, then they were very wroth, and conſpired all of them to<g ref="char:EOLhyphen"/>gether,
+<pb n="13" facs="tcp:106144:7"/>to come and to fight againſt <hi>Jeruſalem</hi> and to hinder it: Great and wide was the breach in the late Reigns, between the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and thoſe of the Diſſenting way;</q> but by the Prudence, Good Will and Gracious Inclination of the Governours of our <hi>Judah,</hi> this breach is competently made up; the Diſſenters have their Liberty not only granted, but ſecured and made firm by a Law, and the moderate and ſober part of the Church of <hi>England</hi> are therewith well ſatisfied; but there are others that are raging mad at this happy compoſure; as for inſtance, <hi>Sanballat</hi> and <hi>Tobiah,</hi> that is, the Devil and the French; the <hi>Arabians,</hi> that is, the wild Debauches and prophane Athieſtical Perſons of the Age; the <hi>Ammo<g ref="char:EOLhyphen"/>nite,</hi> that is, the ſly and ſubtil Papiſts; the <hi>Aſhdodites,</hi> that is, the furious hot ſpurr'd Church Predicants, with a ſwarm of Prieſt-Ridden and Bigot<g ref="char:EOLhyphen"/>ted Fools; O theſe are very wrath, and even foam at the mouth, becauſe the Diſſenters are permitted to live in quiet, and have therefore all agreed together as one man (though we muſt give the right hand of Fellowſhip to the Jeſuits, as the chief Ingineer) to fight againſt our <hi>Jeruſalem,</hi> to open the Trenches again, to make way for Conſtables and Informers to plunder mens Goods, and haul their perſons out of their habitations, and caſt them into Priſons for Worſhiping God according to his Word.</p>
+            <p>Here now you have the foundation of the Plot, and the true cauſe of it: O King <hi>William</hi> King <hi>William!</hi> If thou hadſt refuſed to ſign the Bill of Indulgence; if thou hadſt let looſe the reins of the Law againſt thy peace<g ref="char:EOLhyphen"/>ble Diſſenting Subjects, <hi>Hoc Ithacu velit et magno mercentur Atridae;</hi> Thou wouldeſt have pleaſed all the aforementioned Parties, and there would have been no Ploting againſt thee; but becauſe, and only becauſe thou art a Friend to our <hi>Jeruſalem,</hi> they are ſworn Enemies to thee and vowed thy deſtruction: But hark! What voice is that I hear? O! what melo<g ref="char:EOLhyphen"/>dious muſick, like the chiming of <hi>Aaron</hi>'s golden bells, Iſa. 29.8. <hi>It ſhall even be as when a hungry man dreameth, and behold he eateth, but he awaketh and his Soul is empty: or as when a Thirſty man dreameth, and behold he drinketh; but he awaketh and behold he is faint, and his ſoul hath appetite:</hi> So ſhall the multi<g ref="char:EOLhyphen"/>tude of all the Nations be that fight againſt <hi>Mount Zion:</hi> O <hi>Hallilujah!</hi> Bleſſed be God we find it ſo this day.</p>
+            <p>
+               <hi>Sixthly,</hi> This is a Conſpiracy grounded upon a falſe bottom, ſupported with lies, deceit, <hi>viz.</hi> That our King ſupplanted the late King <hi>James,</hi> and Uſurped his Kingdoms; this the Conſpirators make their great plea for all their attempts againſt the Government; thus we we find the Prophet falſly tax'd by <hi>Amaziah,</hi> Amoz. 7.10. <hi>Then</hi> Amaziah <hi>the prieſt of</hi> Bethel
+<pb n="14" facs="tcp:106144:8"/>
+               <hi>ſent to</hi> Jereboam <hi>King of</hi> Iſrael, <hi>ſaying,</hi> Amos <hi>hath conſpired againſt thee in the midſt of the houſe of</hi> Iſrael: <hi>the Land is not able to bear all his words.</hi> Now I think it not impertinent to the work of this day, to give you a ſhort Narrative of the whole matter, and then let the world judge, whether this be a juſt charge upon the King: His Majeſty coming over, at the In<g ref="char:EOLhyphen"/>vitation of many of the Nobility and Gentry, to give a check to the growth of Popery, which they were not a little apprehenſive would ſoon over<g ref="char:EOLhyphen"/>whelm the Land; and to reſtore our Laws which were ſtrangely perverted by the Arbitrary Gentlemen then in power; and God Bleſſing him with wonderful ſucceſs, for all the Nation flocked to him, and every thing concurr'd to the ſucceeding Revolution; in His Glorious march to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> he ſent the late Marqueſs of <hi>Hallifax,</hi> the Lord <hi>Delameer,</hi> and ano<g ref="char:EOLhyphen"/>ther, to the late King, adviſing him to retire to <hi>Ham</hi> Houſe for the ſafety of his Perſon: now any body knows, that was not the way to <hi>France:</hi> his going to <hi>Rocheſter,</hi> was purely his own deſire, and without doubt to get away as faſt as he could; upon which the Convention when they ſat, Voted King <hi>James</hi> had Abdicated himſelf, and the Throne thereby be<g ref="char:EOLhyphen"/>came Vacant: Now I appeal to all the World, What ſhould the Nation do? Would they have had us been as thoſe of old, when there was no King in <hi>Iſrael,</hi> and every man did that which was right in their own eyes? the caſe is too plain to be long inſiſted on; and therefore O ye Jacobites, if you will revenge King <hi>James</hi>'s loſs, revenge it on the Pryers and Prieſts who gave him ſuch pernicious Counſel, and revenge it on his Court Pa<g ref="char:EOLhyphen"/>raſites, who left him in his Adverſity; of whom we may ſay in the words of <hi>David</hi> to <hi>Abner,</hi> 1 Sam. 26.16. <hi>This thing is not good that thou haſt done, as the Lord liveth ye are worthy to dye, becauſe you have not kept your Maſter the Lords Anointed.</hi> In a word, revenge it upon the cowardly Officers who fled when they ſhould have fought; but let our Innocent King, and guilt<g ref="char:EOLhyphen"/>leſs Kingdom alone.</p>
+            <p>
+               <hi>Seventhly,</hi> This was a Bloody Barbarous Conſpiracy, ſuch an one as <hi>Ho<g ref="char:EOLhyphen"/>ſhea</hi> made againſt <hi>Pekah,</hi> 2 Kings 15.30. <hi>And</hi> Hoſhea <hi>the ſon of</hi> Elah, <hi>made a Conſpiracy againſt</hi> Pekah <hi>the ſon of</hi> Ramaliah, <hi>and ſmote him, and ſlew him, and Reigned in his ſtead.</hi> The Conſpiracy was not only againſt his Kingdom but againſt his Life: Theſe Conſpirators deſigned to wade through an ocean of Blood to their wiſhed Haven: The Blood of the King, the Blood of his Guards, and then the Blood of his Nobles, and the Blood of his Sub<g ref="char:EOLhyphen"/>jects, muſt be poured out like water, to quench the burning rage of their Inveterate Mallice: <hi>Oh! Curſed be their Anger, for it was fierce; and their
+<pb n="15" facs="tcp:106144:8"/>wrath for it was cruel:</hi> like the Ofspring of <hi>Manaſſah</hi> that Bloody King who filled the ſtreets of <hi>Jeruſalem</hi> with Blood, which the Lord would not par<g ref="char:EOLhyphen"/>don: But now, oh now they are fallen into the pit which themſelves have digged, and their violent dealing is come down upon their own pate; that cry is gone up to heaven againſt them, <hi>Quouſq. Domine</hi> and upon them is come all the Righteouſs Blood ſhed in this Land theſe late years, from the Blood of the Famous Lord <hi>Ruſſel,</hi> to all the Blood ſpilt in the <hi>Weſt</hi> by bloody <hi>Jeſſeries</hi> of ever curſed Memory.</p>
+            <p>And now behold they are under a dreadful, and yet a juſt diſpenſation, as the pouring out the Third Viol in Rev. 16 and 15.6.7. <hi>And the Third Angel poured out his Viol upon the rivers and fountains of waters, and they became Blood: and I heard the Angel of the Waters ſay, Thou art Righteous O Lord, which art, and waſt, and ſhalt be, becauſe thou haſt judged thus: For they have ſhed the Blood of Saints and Prophets, and thou haſt given them Blood to drink for they are worthy: And I heard another out of the Alter, ſay, Even ſo, Lord God Almighty, true and righteous are thy Judgments:</hi> O how juſt and right is that rod of Vengeance now upon them for all their bloody dealings againſt the beſt Men in our Land: O! that they would ſee the juſt hand of God, in making them to reap the fruit of their own doings, and to drink of that Cup which they mingled for others more righteous than themſelves.</p>
+            <p n="8">8thly. This was a baſe, ignominious Conſpiracy; like that in the ſecond of <hi>Kings,</hi> 21.23. <hi>And the Servants of</hi> Amon <hi>Conſpired againſt him, and ſlew the King in his own Houſe.</hi> Houſes are Places of Reſt and Security; where may a Man expect Safety but in his own Houſe? But this was no Sanctuary for poor <hi>Amen;</hi> for his Treacherous Ene<g ref="char:EOLhyphen"/>mies made a Butcher's Shambles of his Royal Pallace. Our Dread So<g ref="char:EOLhyphen"/>vereign retiring from his Annual Toils and Labours in the Martial Camp for a little reſt in the Winter Seaſon, thought (as juſtly he might) to find nothing but quietneſs and Security in his own Man<g ref="char:EOLhyphen"/>ſion, amongſt his own Subjects, who were bleſſed and honoured with his Preſence. But ſo contrary to all expectation, theſe Pigmire Cow<g ref="char:EOLhyphen"/>ards, who durſt not look him in the Face in the Field of War, in<g ref="char:EOLhyphen"/>humanely reſolved to Attack him in the place of Peace. But the great God has graciouſly fruſtrated their horrid Deſign, and by his wonderful Providence delivered up many of their Perſons to be re<g ref="char:EOLhyphen"/>ſponſible unto Juſtice. Though they thought themſelves ſecure, and did not doubt of the Event, concluding in their Minds with their Bre<g ref="char:EOLhyphen"/>thren
+<pb n="16" facs="tcp:106144:9"/>of Old. <hi>Neh.</hi> 4.11. <hi>And our Adverſaries ſaid, they ſhall not know nor ſee till we come in the midst of them, and ſlay them, and cauſe the Work to ceaſe.</hi> So theſe Conſpirators, the Adverſaries of God, and of his People, and of the Liberties and Welfare of this Land, ſaid in their Hearts, the King ſhall not know, the Parliament ſhall not know, the People ſhall not know, till we come on a ſudden in the midſt of the Guards, and ſlay the King, and fall upon the unwary Subjects, and ſo cauſe the work of preparing for the next Campaign to ceaſe. O rare Project, O brave Contrivance. Ah, but though they would not let Man know it, God knew it, and has moſt wonderfully revealed it to the Comfort, and rejoycing of the Godly, and all the lovers of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s Proſperity, but to Amazement, and Confuſion of her Enemies. O how do the Dukes of <hi>Paleſtina</hi> tremble! How do the Inhabitants of <hi>Canaan</hi> melt away, how are all the Devotees of <hi>Rome</hi> gnawing their Fin<g ref="char:EOLhyphen"/>gers for Madneſs at this happy Diſappointment.</p>
+            <p>Thus have I given you ſome ſhort hints of this Conſpiracy, not with aggravating Imbelliſhments; for truly 'tis as uncapable of receiving any, as I am of giving. <hi>Res ipſa loquitur,</hi> The thing it ſelf ſpeaks louder than I can do. This day is that Scripture fulfilled, <hi>Pſalm</hi> 11.2. <hi>For the Wic<g ref="char:EOLhyphen"/>ked bend their Bow, they make ready their Arrow upon the String, that they may privily ſhoot at the upright in Heart.</hi>
+            </p>
+            <p>The Bows of our Conſpirators were ready, their Arrows were up<g ref="char:EOLhyphen"/>on the String, to ſhoot at our upright-hearted Sovereign, who deſigns ill to none, and whoſe Pious Soul could hardly be brought to think ſo ill of the worſt of Caitifs, that they ſhould have ſo baſe a Project againſt him; concerning which I will allude to thoſe words of <hi>Iſrael,</hi> ſpoke in abhorrence to what was done to the <hi>Levite's</hi> Concubine. <hi>Judges</hi> 19 30. <hi>And it was ſo, that all that ſaw it, ſaid there was no ſuch deed done no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeen, from the Day that the Children of</hi> Iſrael <hi>came up out of the Land of</hi> E<g ref="char:EOLhyphen"/>gypt, <hi>unto this Day: Conſider of it, take advice, and ſpeak your Minds.</hi> Let us conſider this Plot, as promoted, if not contrived, by the greateſt of Men, as the Maſter-piece of the Jeſuits ſubtilty, as directly levelled at the Foundation of our Religion, as moſt horridly ungrateful, as the re<g ref="char:EOLhyphen"/>ſult of an Union among thoſe who never in any thing elſe could unite, as grounded upon a falſe bottom, and Sham-pretence, as moſt Helliſhly Bloody, and Barbarous, as very Baſe and Ignominious; I ſay, let theſe things be well weighed, and then conſider of it, and ſpeak your Minds, whether ever there was ſuch a Conſpiracy acted upon the Stage of
+<pb n="17" facs="tcp:106144:9"/>
+               <hi>England</hi> ſince it was a Civilized Nation; and taking in all theſe Cir<g ref="char:EOLhyphen"/>cumſtances, let any Man produce a parallel plot in any Hiſtory, whe<g ref="char:EOLhyphen"/>ther Sacred, or prophane, whether ancient or modern, and I will hearti<g ref="char:EOLhyphen"/>ly thank him, as the greateſt Novelty he can oblige the Learned with; but I am very well aſſured no ſuch Parallel can be found. O then How much are we bound to God, for his ſteping in between us and the ex<g ref="char:EOLhyphen"/>ecution of ſo matchleſs a deſign. Now let us a little conſider, What this Conſpiracy is eventually? and what God has, by his over-ruling Provi<g ref="char:EOLhyphen"/>dence, wrought by it? Verily he hath brought forth ſweet out of this ſtrong, and meat out of this eater; and Glory be to his name for ever.</p>
+            <p>
+               <hi>Firſt,</hi> This Conſpiracy ſhews the Judgment of God to be moſt dreadfully upon the Conſpirators, that he has blinded their Eyes, hardned their Hearts<g ref="char:punc">▪</g> infatuated their Counſels, and left them ſo far to ſplit upon this Fatal Rock of Combination, that the ſame end might overtake them as <hi>Amons</hi> Murderers were brought to, 2 Kings 21, 24. <hi>And the People of the Land ſlew all them that conſpired againſt King</hi> Amon. Oh! How long might theſe Virmin have lived as a Plague to our Land? Hatching Miſchief, Contri<g ref="char:EOLhyphen"/>ving Plots, and working Wickedneſs under ground, if Heaven had not brought them upon the ſtage by this execrable deſign of theirs: O! How has the hand of God been upon them, that they might reel and ſtage and fall backward: God has anſwered the Prayer of the Church with reſpect to theſe miſerable wretches, Pſal. 104.35. <hi>Let Sinners be conſumed out of the Earth, and let the wicked be no more.</hi> Theſe Conſpirators were Sinners, great Sinners, firſt rate Sinners; and God has left them to blindneſs of heart, that they might be conſumed out of the Earth; they were wicked above meaſure, and therefore he has filled them with the devices of their own way, that they might be no more.</p>
+            <p>
+               <hi>Secondly,</hi> This was a Conſpiracy countermined by God's great Wiſdom, near a kin to that 2 Kings 14.19. <hi>Now they made a Conſpiracy against him in</hi> Jeruſalem, <hi>and he fled to</hi> Lachiſh; <hi>but they ſent after him to</hi> Lachiſh, <hi>and ſlew him there:</hi> But this policy of the Conſpirators did them no great kindneſs, for <hi>Azariah</hi> his ſon was King after him, and he built <hi>Elath</hi> and reſtored it to <hi>Judah:</hi> And pray what has all the cunning ſtratagems and contrivances of our Jeſuitical gang availed them; no doubt they were cock-ſure in ſucceeding, and boaſted before hand of the event: As <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> when he vainly and triumphantly cryed out, <hi>I will purſue, I will over<g ref="char:EOLhyphen"/>take, I will divide the ſpoil, my Luſt ſhall be ſatisfied upon them, I will draw <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Sword, my hand ſhall deſtroy them:</hi> Well, what was the end of this
+<pb n="18" facs="tcp:106144:10"/>vain-glorious flouriſh? why <hi>Moſes</hi> tells us in the next words, <q>Thou didſt play with thy wind, the Sea covered them, they ſank as lead in the mighty waters: ſo did our Enemies rant and boaſt before hand, and ſo did our God appear to daſh them in pieces;</q> according to that word, I ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 94.25. <q>That fruſtrateth the Tokens of Lyers, that maketh Diviner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mad; he turneth wiſe men backward, and maketh their knowledge fooliſhneſs: Truly God had fulfilled his word with reſpect to this Con<g ref="char:EOLhyphen"/>ſpiracy.</q> They agreed to ſtrengthen one anothers hand, and encourage one another in this Curſed Attempt, as confident of ſucceſs which they thought they had good ground enough for: But God has fruſtrated theſe vipers, and made them even mad with rage and anger, and now they are turned backward, ſo backward, as 'tis to be hoped, they w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll never be able to ſet forward any more.</p>
+            <p>
+               <hi>Thirdly,</hi> In this Conſpiracy, we may ſee the juſt hand of God, and what our Sins deſerve, the cauſe of the laſt Conſpiracy ſeems to be aſſign<g ref="char:EOLhyphen"/>ed. 2 Cron. 25.27. <hi>Now after the time that</hi> Amaziah <hi>did turn away fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from following the Lord, they made a Conſpiracy againſt him in</hi> Jeruſalem: Oh how many times have we turned aſide from following the Lord, notwith<g ref="char:EOLhyphen"/>ſtanding he hath done ſo much for us, and heaped ſo many favours upon us? How have we requited him a great deal of evil for a great deal of good? He has delivered us from the claw of the Lyon, and the paw of the Bear; He has reſcued us from the pit of Popery and Slavery, when we were ſo near falling into it: He hath reſtored us judges as at the firſt, and our Counſellors as at the beginning: He has hedged us about with mani<g ref="char:EOLhyphen"/>fold Mercies, and followed us with the due of Heavenly Bleſſings: and when he expected (and that juſtly) that we ſhould bring forth Grapes that is fruit meet for Repentance, behold, nothing but the wild grapes of Hipocriſie, Laciviouſneſs and all manner of Debaucheries; ſo that our Land is become even a <hi>Sodom,</hi> and the Inhabitants a <hi>Gomorrah:</hi> No won<g ref="char:EOLhyphen"/>der then, that God has ſuffered thoſe <hi>Shemies</hi> to Curſe, and theſe ſons of <hi>Be<g ref="char:EOLhyphen"/>lial</hi> to Plot againſt us: But oh! notwithſtanding Provocation, in the midſt of Judgment he has remembred Mercy, and ſteped in between us and our deſigned Deſtruction; ſo that we may now apply theſe words to our ſelves, Pſalm 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>v.</hi> 58, to 66. <hi>For they provoked him to anger with their High Places, and moved him to jealouſie with their graven Images. When God heard this, he was wroth, and greatly abborred</hi> Iſrael: <hi>So that he forſook the taber<g ref="char:EOLhyphen"/>nacle of</hi> Shiloh, <hi>the tent which he placed among men: And delivered his ſtrength into Captivity, and his Glory into the Enemi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s hand: He gave his People over
+<pb n="19" facs="tcp:106144:10"/>alſo unto the Sword, and was wroth with his Inheritance: The fire conſumed their young men, and their Maidens were not given to Marriage: Their Prieſts fell by the Sword: and their Widows made no lamentation: Then the Lord awaked as one out of Sleep, and like a mighty man that ſhouteth by reaſon of Wine: And he ſmote his Enemies in the hinder parts, he put them to a perpetual reproach:</hi> Oh! Bleſſed be the Lord our God, it has been juſt ſo with us.</p>
+            <p>
+               <hi>Fourthly,</hi> This is a fooliſh, ridic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lous, Conſpiracy, and ſhews the author to have as little ſenſe as Grace; as <hi>Saul</hi> ſaid to the <hi>Benj mites,</hi> 1 Sam. 22<g ref="char:punc">▪</g> 7, 8. <hi>Then</hi> Saul <hi>ſaid unto his Servants that ſtood about him, Hear now, ye Benjamites, will the ſon of</hi> Jeſſe <hi>give every one of you Fields and Vineards, and make you all Captains of Thouſands and Captains of Hundreds, that all of you have Conſpired against me.</hi> — So obſerving the ſame Antonomaſia; give me leave ro expoſtulate: Oh ye Promoters and Managers of this Conſpiracy; Would the Papiſts, would the French let you live in ſo much plenty, eaſe and Liberty? that you have been thus endeavouring to make them Ma<g ref="char:EOLhyphen"/>ſters of this Land. So God upbraided the folly of his People of old. Jer. 2. 10, 11. <hi>For paſs over the Iſles of</hi> Chittim, <hi>and ſee, and ſend unto</hi> Kedar, <hi>and conſider diligently, and ſee if there be ſuch a thing: Hath a Nation changed their Gods, which are yet no Gods; but my People have changed their Glory, for that which doth not profit:</hi> Truly, I think all circumſtances weighed, ſuch a piece of ridiculouſneſs as our Conſpirators are eminently guilty of in this deſign, can hardly be matched in this or any other Age.</p>
+            <p>
+               <hi>Fifthly,</hi> This is a Conſpiracy beyond the ſphere of reaſon; ſuch as the the wit of man cannot give a good account of, or render a tollerable rea<g ref="char:EOLhyphen"/>ſon for; as <hi>Saul</hi> demanded of <hi>Ahitub,</hi> 1 Sam. 22.13. <hi>And</hi> Saul <hi>ſaid unto him, Why have ye Conſpired againſt me, thou and the ſon of</hi> Jeſſe, <hi>in that thou haſt given him Bread and a Sword, and hast enquired of God for him, that he ſhould riſe againſt me to lie in wait as at this day:</hi> Upon much clearer Topicks of Reaſon and Senſe, we may argue the caſe, and expoſtulate with theſe raſh and unadviſed Conſpirators: Why? O Why have ye undertaken an enterprize that cannot be proped up with one Argument? Why have ye engaged in a cauſe that cannot abide the teſt of the leaſt rationallity? Is the conſtitution of the <hi>Engliſh</hi> Government of no more worth? Are the Liber<g ref="char:EOLhyphen"/>ties and Franchies we enjoy of no more value, than to be ſacrificed to a French Tyranny? Did you think the diſtance between <hi>England</hi> and <hi>France</hi> ſo great, that 'twas hard for people to know the diſproportion of the one and the others Government? Verily you are much miſtaken; I am perſwa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, that ſcarce the meaneſt Plow-man in <hi>England,</hi> but knows ſo much
+<pb n="20" facs="tcp:106144:11"/>the difference, between <hi>Engliſh Liberty,</hi> and the ſlavery of the poor Vaſſals in <hi>France,</hi> that he had rather be hang'd out of the way, than ever ſuffer a French power to be uppermoſt in the Land; therefore your ſtriving to alter the beſt and the eaſieſt of Governments, for the moſt Arbitrary Ty<g ref="char:EOLhyphen"/>ranny that is any where exerciſed in the World; is ſo unaccountable, and ſo ill reſented by all ſorts of People whatſoever; that the greateſt ſufferings theſe Conſpirators can undergo, will hardly be pittied of any: It would make a Niobe dry up her tears even for the Death of her neareſt Relations engaged in ſuch a cauſe as this: and whoever has or ſhall ſuffer on this ac<g ref="char:EOLhyphen"/>count, will have the hard ſate, to be as little bewailed as <hi>Jehoiakim</hi> was Jerem. 22.18, 19. <hi>Therefore thus ſaith the Lord concerning</hi> Jehoiakim <hi>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſon of</hi> Joſiah <hi>King of</hi> Judah, <hi>They ſhall not lament for him ſaying, Ah my br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther, or ah ſiſter: They ſhall not lament for him, ſaying, Ah Lord, or ah his Glory He ſhall be buryed with the buryal of an Aſs, drawn and cast forth beyond <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gates of</hi> Jeruſaelm. So circumſtanced will be the end of ſuch Plotters a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe be.</p>
+            <p>
+               <hi>Sixthly,</hi> This is a ſtrange Providential Conſpiracy; and calls for o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Adoration at the wonderful hand of God in it; which brings to mind th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Baaſha</hi> againſt <hi>Nadab</hi> ſon of <hi>Jereboam.</hi> 1 Kings 15.27. <hi>And</hi> Baaſha <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>work<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſon of</hi> Ahijah <hi>of the houſe of</hi> Iſacher, <hi>Conſpired againſt him, and</hi> Baaſha <hi>ſm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> him at</hi> Gibethon, <hi>which belongeth to the Philiſtians</hi> (<hi>for</hi> Nadab <hi>and all</hi> Iſra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>laid ſieg to</hi> Gibbethon) and a little further we find the conſequence of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Conſpiracy was, all the wicked houſe of <hi>Jereboam</hi> were cut off: There ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome doom'd of God to deſtruction for the iniquity of their Fore-Fathers and who knows but his Conſpiracy may terminate in accompliſhing God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will, in rooting out the generation of ſome who are lothſome in his ſight God does his work by ſtrange ways and by terrible things; in righteouſ<g ref="char:EOLhyphen"/>neſs he many times anſwers his People; and I am very apt to believe ſucceeding Ages may have cauſe to bleſs God for this Plot, as being th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great occaſion of delivering them from ſuch Task-Maſters as would alway have been oppreſſing of them: And I believe many that were hankrin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after <hi>Egypt,</hi> will be now more ſettled in their thoughts, and more conten<g ref="char:EOLhyphen"/>ted with, and more praiſing God for what they do enjoy, which perhap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they never had Grace to do before: What the Goodneſs of ſome men can<g ref="char:EOLhyphen"/>not do, the Wickedneſs of other men oftentimes have done. This Pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> has opened more eyes, undeceiv'd more deluded ones, than the Clemency and Mildneſs of the Government poſſibly could do. And I queſtion not but many are ſaying now with thoſe of Old, 1 Sam. 11.12. <hi>And the peop<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:106144:11"/>ſaid unto</hi> Samuel, <hi>Who is he that ſaid, ſhall</hi> Saul <hi>Regin over us? Bring the Men that we may put them to Death.</hi> Oh! how many trimming <hi>Jacobites</hi> are now upon Reverſe, and ſpeaking in full of the Mouth, Who will not have King <hi>William</hi> Reign? Who is diſaffected to him? Who dares Plot againſt him? Let him be Puniſhed, and let that Pu<g ref="char:EOLhyphen"/>niſhment extend even to Death it ſelf.</p>
+            <p n="7">7thly. This is an horrible Conſpiracy, ſuch as has brought down Vengeance upon the Conſpirators; like that againſt <hi>Elah,</hi> perpetrated by treacherous <hi>Zimri,</hi> I <hi>Kings</hi> 16.9. <hi>And his Servant</hi> Zimri, <hi>(Captain of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf his Chariots) conſpired againſt him as he was in</hi> Tirzah, <hi>drinking him<g ref="char:EOLhyphen"/>ſelf drunk in ohe Houſe of</hi> Arza, <hi>Steward of his Houſe in</hi> Tirzah. And if you will read a little further, you will ſee how ſoon <hi>Zimri</hi> was brought to condign Puniſhment for this his great Wickedneſs. And is it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ſo with theſe hatchers of Miſchief? What a ſad ſtate are they in? What dreadful Calamity have they brought upon themſelves? Some already Executed, others encloſed in ſtrong Walls, waiting their ap<g ref="char:EOLhyphen"/>proaching Doom; the reſt roving up and down, with <hi>Cain</hi>'s Mark up<g ref="char:EOLhyphen"/>on them, fearing every one they ſee, yea, almoſt afraid of every Bird that flies; being ſo loaded with Guilt and Shame, that they know not where to put their Heads; and <hi>Paſhur</hi>'s Deſtiny is now become theirs, <hi>Jerem.</hi> 20.3, 4. <hi>And it came to paſs on the Morrow, that</hi> Paſhur <hi>brought forth</hi> Jeremiah <hi>out of the Stocks. Then ſaid</hi> Jeremiah <hi>unto him, The Lord <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th not called thy Name</hi> Paſhur, <hi>but</hi> Magor-Miſſabib. <hi>For thus ſaith the Lord, Behold I will make thee a Terrour to thy ſelf, and to all thy Friends.</hi> Oh what Fear are theſe miſerable Creatures in, and encom<g ref="char:EOLhyphen"/>paſſed with Miſeries on every ſide; a guilty (though perhaps an hard<g ref="char:EOLhyphen"/>ned) Conſcience within them, deſolate, and deſtracted Relations about them, and a doleful Eternity before them; ſo that the pit they prepa<g ref="char:EOLhyphen"/>red for us, they are fallen into it themſelves, and their violent Courſes are come down upon their own Pates. Verily God is known by the Judgments which he executes; the Wicked are ſnared in the Works of their own Hands; <hi>Higgaion Selah.</hi> Oh conſider with Trembling, what is moſt deſervedly come upon them.</p>
+            <p n="8">8thly. This is a moſt deteſtable Conſpiracy; loathed and abhorred of all People that have any thing of Humanity, or the leaſt principle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Morality ſwaying in them; as <hi>Zimri</hi>'s Plot (but now mentioned) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>as 1 <hi>Kings</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.16. <hi>And the People that were encamped, heard ſay,</hi> Zimri <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h Conſpired, and hath alſo ſlain the King: Wherefore all</hi> Iſrael <hi>made</hi>
+               <pb n="22" facs="tcp:106144:12"/>Amri <hi>the Captain of the Hoſt, King over</hi> Iſrael <hi>that day in the Camp.</hi> I am more than confident, if theſe blackeſt of Hell-hounds had ſucceed<g ref="char:EOLhyphen"/>ed in their Villanous Attempt upon the Life of His Royal Majeſty, they had miſſed of their aim otherwiſe; things would not have run in the Channel they deſigned them; no, no, the People would have been too much incenſed, and regretted ſuch an abominable Action at too high a rate to have let them had their Will. And this they may plainly ſee in the late Vote of the Honourable Houſe of Commons (the Repreſentative of the whole Land) That if the King ſhould come to an untimely End, they will revenge his Death on the Papiſts, and thoſe diſſaffected to the Government; and this is the Senſe of all the Peo<g ref="char:EOLhyphen"/>ple of Senſe throughout the Nation. Then what have theſe vile Miſcreants got by their Helliſh Conſultations? And to what paſs have they brought themſelves to? Why, the very ſame that thoſe accurſed ones of the Lord did, of whom we read. <hi>Iſa</hi> 66.24. <hi>And they ſhall go forth, and look upon the Carcaſſes of the Men that have tranſgreſſed againſt me; for their Worm ſhall not die, neither ſhall their Fire be quenched, and they ſhall be an abhorring unto all Fleſh.</hi> Oh! their Conſcience is this Worm, that will never die. Oh! how have they made themſelves liable to the moſt dire<g ref="char:EOLhyphen"/>ful Vengeance of God? and how are they become <hi>opprobrium Hominum et rejecta mentum plebis?</hi> Every Body's Month is open againſt them, and every Body's Teeth is gnaſhing at them. So let it be with all thy Enemies, and the Enemies of thy Anointed, O Lord, <hi>Amen, Amen.</hi>
+            </p>
+            <p>But 'tis time to come to Application, and to make ſome Improvement of this in a few Words.</p>
+            <p>Firſt, Then ſee the horrid Principles of the Popiſh Religion, that allow of Killing, and that by wholeſale; yea, that account ſhedding the Blood of Innocence Meritorious Act. Truly, if their Books (eſ<g ref="char:EOLhyphen"/>pecially thoſe proved by the Jeſuits) wherein theſe Maxims of deſtroy<g ref="char:EOLhyphen"/>ing Hereticks are audaciouſly Aſſerted, Vindicated, and publickly a<g ref="char:EOLhyphen"/>vowed, as Sacred and wholſome Doctrine. I could not poſſibly be<g ref="char:EOLhyphen"/>lieve that our Men, pretending to any thing of Learning or Reli<g ref="char:EOLhyphen"/>gion, ſhould be ſo far left of God, and infatuated by the Devil, as to think that Lawful, which of all things is moſt abominable. And that (<hi>tantum Religio potuit quedere malcrum)</hi> is the greateſt of all My<g ref="char:EOLhyphen"/>ſteries, as <hi>Jehu</hi> ſaid to the Men of <hi>Samaria,</hi> 2 <hi>Kings</hi> 10.9. <hi>And it came to paſs in the Morning he went out, and ſtood, and ſaid to all the People, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he Righteous: Behold I Conſpired againſt my Maſter, and ſlew him but who ſlew
+<pb n="23" facs="tcp:106144:12"/>all theſe?</hi> But did this great Slaughter go unpuniſhed, unrevenged? No ſurely; for tho' <hi>Jehu</hi> buoy'd up himſelf with this, That 'twas a Family Decreed to Deſtruction, (as Papiſts think of all Proteſtants) and ſo would have it a Meritorious and Religious Act in ſhedding ſo much Blood; yet we find God reſolving to call this Blood to an Account, and ſeverely to Revenge it, <hi>And the Lord ſaid unto him, Call his Name</hi> Jez<g ref="char:EOLhyphen"/>reel, <hi>for yet a little while and I will avenge the Blood of</hi> Jezreel <hi>upon the houſe of</hi> Jehu, <hi>and will cauſe to ceaſe the Kingdom of the Houſe of</hi> Iſrael; <hi>and it ſhall come to paſs at that Day, that I will break the Bow of</hi> Iſrael <hi>in the Walls of</hi> Jezreel: Oh verily it will not be long before God will Avenge the Blood of the many Thouſand Proteſtants upon the Scarlet Whore, and all that take part with her. In the mean time, let us abhor and loath a Religi<g ref="char:EOLhyphen"/>on that is ſo Bloody, and have nothing in the leaſt to do with them.</p>
+            <p>Secondly, Oh then we ſhould take this Alarm, and improve it in raiſ<g ref="char:EOLhyphen"/>ing our Spirits more and more againſt the Papiſts. Are they the Fomen<g ref="char:EOLhyphen"/>ters of ſuch Deviliſh Conſpiracies? Oh then let us ſtand aloof off from them, and be irreconcileably ſet againſt them. Let us ſay of them, as <hi>Jacob</hi> of <hi>Simeon</hi> and <hi>Levi, Oh my Soul, come not thou into their Secrets, into their Aſſemblies, mine Honour be not thou united, for in their Anger they ſlew a man;</hi> Ah, many Thouſand Men, <hi>and in their Self-Will they digged down a Wall;</hi> that is, undermine Kingdoms, &amp; threw down all Governments; <hi>Oh curſed be their Anger, for it was fierce, and their Wrath, for it was cruel, God will therefore divide them in</hi> Jacob, <hi>and ſcatter them in</hi> Iſrael. Their Reli<g ref="char:EOLhyphen"/>gion teaches them the very worſt of Impieties, for (to borrow a late Learned Man's Words) they eat their God, they kill their King, they Saint the Mutherer, they commit all manner of Abominations, and no humane Laws can bind them. God does call aloud to the Pro<g ref="char:EOLhyphen"/>teſtants this day, to do to the Papiſts what he bid <hi>Iſrael</hi> do to the <hi>Midi<g ref="char:EOLhyphen"/>anites. Numb.</hi> 25.16, 17.18. <q>And the Lord ſpake unto <hi>Moſes,</hi> ſaying, Vex the <hi>Midianites,</hi> and ſmite them; for they vex you with their Wiles, wherewith they have beguiled you, in the matter of <hi>Peor,</hi> or in the matter of <hi>Cozbi,</hi> the Daughter of a Prince of <hi>Midian,</hi> their Si<g ref="char:EOLhyphen"/>ſter, which was ſlain in the day of the Plague, for <hi>Peor</hi>'s ſake.</q> Oh how many brave Men has the Papiſts beguiled us of by their Curſed Machinations, ſurely we ought then to vex them, and to have War a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inſt them, (as <hi>Iſrael</hi> had War with <hi>Amaleck</hi>) from Generation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Generation. And the Warning <hi>Moſes</hi> gave <hi>Iſrael,</hi> I do in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame of God give you, all that hear me this Day, <hi>Numb.</hi> 16.26. <q>And
+<pb n="24" facs="tcp:106144:13"/>he ſpake unto the Congregation, ſaying, Depart I pray you, from the Tents of theſe wicked Men, and touch nothing of theirs, leſt ye be Conſumed in all their Sins.</q> Oh! for the Lord's ſake depart from a<g ref="char:EOLhyphen"/>mong them, and for ever keep your ſelves from them.</p>
+            <p>Thirdly, Let us learn to prize, honour, and reverence our dread So<g ref="char:EOLhyphen"/>vereign the more; becauſe the powers of Hell have been Plotting and Contriving his Ruin. Were he not a good King, an Enemy to the Whore of <hi>Babylon,</hi> the Sons of <hi>Belial</hi> would not have entred into a Confederacy againſt him: Oh how much is <hi>Joſiah</hi> endeared to the Peo<g ref="char:EOLhyphen"/>ple by the Conſpiracy againſt his Prieſt <hi>Ammon,</hi> 2 Chron. 33.24, 25. <hi>And his Servants conſpired againſt him, and ſlew him in his own Houſe. But the People of the Land ſlew all them that had conſpired againſt</hi> Ammon, <hi>and the People of the Land made</hi> Joſiah <hi>his Son King in his ſtead.</hi> The deteſtation of this Conſpiracy, was as Oyl to inflame their Love to <hi>Joſiah.</hi> Oh! ſo let it be with us. The more the Papiſts (and Popiſhly affected ones) Hate the King, the more let us Love him; the more they Envy him, the more reſolved let us be to ſtand yb him, and defend him, with all that is Dear to us. We may ſay of our King as <hi>Jacob</hi> did of <hi>Joſeph,</hi> Gen. 49.22, 23, 24, 25. Joſeph <hi>is a fruitful bough, even a fruitful bough by a Well; whoſe branches run over the Wall. The Archers have ſorely grieved him, and ſhot at him, and hated him. But his Bow abode in ſtrength, and the arms of his hands were made ſtrong, by the hands of the mighty God of</hi> Jacob: <hi>from thence is the ſhepherd, the stone of</hi> Iſrael. <hi>Even by the God of thy Father who ſhall help thee, and by the Almighty, who ſhall bleſs thee with bleſſings of Heaven above, bleſſings of the Deep that lieth under, bleſſings of the Breaſts, and of the Womb.</hi> The 23d Verſe is a Paraphraſe of his Brethren, they were as ſo many Crafty Engi<g ref="char:EOLhyphen"/>neers ſet on work by the Devil to batter him down, and bring him to De<g ref="char:EOLhyphen"/>ſtruction; but though their Arrows were ſhot ſo thick againſt him, though their Malice was diſcharg'd ſo violently upon him, his Bow abode in Strength, and long may it do ſo. And Oh that we may gather his Worth, by his Enemies Rage; and his Unparallel'd Virtue by theſe Un<g ref="char:EOLhyphen"/>preſidented Traps laid for him. Oh! what a Diſappointment would it be to the Papiſts, and all the Devotees of <hi>Rome,</hi> if this Diſpenſation did, (as I hope it will) awaken the whole Land to look upon their Sovereign with other kind of Eyes than ever they have yet done?</p>
+            <p>Fourthly, Oh! then let us learn to be expecting, and by a ſtrong Faith be believing God's ariſing againſt the Papiſts, and appearing for the Proteſtant Cauſe. Let us be by Faith applying that excellent
+<pb n="25" facs="tcp:106144:13"/>Pſalm, 83. from the firſt to the twelfth. <hi>Keep not thou Silence, O God: hid not thy Peace, and be not ſtill O God. For lo, thine Enemies make a Tu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ult: and they that hate thee, have lift up the Head. They have taken crafty Counſel againſt thy People, and conſulted againſt thy hidden ones. They have ſaid, Come and let us cut them off from being a Nation: That the name of</hi> Iſrael <hi>may be no more in remembrance. For they have conſulted together with one Conſent: They are Confederate againſt thee. The Tabernacles of</hi> Edom, <hi>and the</hi> Iſhmaelites <hi>of</hi> Moab, <hi>and the</hi> Hagarenes, Gebal, <hi>and</hi> Ammon, <hi>and</hi> Amalek, <hi>the</hi> Philiſtines, <hi>with the Inhabitants of</hi> Tyre: Aſhur <hi>alſo is joyn<g ref="char:EOLhyphen"/>ed with them, they have holpen the Children of</hi> Lot, <hi>Selah. Do unto them as unto the</hi> Midianites: <hi>as to</hi> Siſera, <hi>as to</hi> Jabin, <hi>at the brook of</hi> Kiſon, <hi>which periſhed at</hi> En-dor: <hi>they became as dung for the Earth. Make their Nobles like</hi> Oreb, <hi>and like</hi> Zeeb: <hi>yea, all their Princes as</hi> Zebah, <hi>and as</hi> Zalmuna: <hi>Who ſaid, let us take to our ſelves the Houſes of God in Poſſeſſion.</hi> The <hi>Epanalepſis</hi> in the firſt Verſe, ſhews when Enemies are ſo ram<g ref="char:EOLhyphen"/>pant in their Power, ſo Predominant in their Conceits, God will not long keep ſilence, nor long hold his Peace, no, nor long be ſtill: But then he he will quickly riſe up, as on Mount <hi>Perezim,</hi> and be Wrath as in the Valley of <hi>Gideon.</hi>
+            </p>
+            <p>And ſurely then our Enemies coming up to the ſame height with theſe, we may, nay we ought to believe the Hand of God will be upon them, as it was upon thoſe ſeveral Nations, who conſpired againſt <hi>Zion.</hi> And as <hi>Moſes</hi> comforted the <hi>Hebrews</hi> with this Aſſertion, <q>The <hi>Egyptians</hi> whom ye have ſeen to day, ye ſhall ſee them again no more for ever, he then adds, <hi>Exod</hi> 14.14.</q> 
+               <hi>The Lord ſhall fight for you, and ye ſhall hold your Peace.</hi> That is, ye ſhall be quiet and ſedate in your Minds, and not be over Anxious about it, for without your Concurrence God will do the Work himſelf.</p>
+            <p>Ah Sirs! God has appeared wonderfully in the Diſcovery of this Cur<g ref="char:EOLhyphen"/>ſed Plot; and if our Sins prevent not, he will go on to finiſh the Work, and make a final End. Oh! look up, look up.</p>
+            <p>Fifthly, Then how ſhould this make us reflect upon our Sins (with true Repentance and unfeigned Sorrow) which have provoked God to ſuffer the Enemy to make ſuch a Progreſs in this Horrid Deſign, even ready to be put in Execution: This Improvement holy <hi>David</hi> made of his Son <hi>Abſalom</hi>'s Conſpiracy, when he was in a low Condition, and <hi>Shimci</hi> rail<g ref="char:EOLhyphen"/>ing at him; and upon <hi>Abiſhai</hi>'s offering to ſmite him, he thus replied, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Sam.</hi> 16.10. <hi>And the King ſaid, What have I to do with you, ye Sons of</hi> Ze<g ref="char:EOLhyphen"/>ruiah?
+<pb n="26" facs="tcp:106144:14"/>
+               <hi>ſo let him curſe, becauſe the Lord hath ſaid unto him, Curſe</hi> David<g ref="char:punc">▪</g> 
+               <hi>Who ſhall then ſay, Wherefore haſt thou done ſo?</hi> As if he had ſaid, I am ſen<g ref="char:EOLhyphen"/>ſible I have many ways offended God, and grieved his Holy Spirit, and therefore I cannot but think (and it highly becomes me ſo to judge) it is of him, (as a juſt Judgment upon me) that theſe Wicked Ones are let looſe againſt me. Oh, that you, and I, and all the Inhabitants of the Land will make the like Anſwer this Day; we have verily diſpleaſed the Great God, we have Tempted him as at <hi>Miſſa;</hi> we have provoked him as at the Waters of <hi>Mirribah;</hi> we have turned aſide from the good Old Way of Seriouſneſs and Holineſs, and we have wandred in the By-paths of Wickedneſs and Abomination, and therefore God has juſtly permitted theſe Agents of the Devil to plot our Ruin and Deſtruction, and to come within a very little way of attaining it, even as he ſaid of Old, <hi>Iſa.</hi> 10.5, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <q>O <hi>Aſſyrian,</hi> the Rod of mine Anger, and the ſtaff in their Hand is mine Indignation. I will ſend him againſt an Hypocritical Nation; and againſt the People of my Wrath will I give him a Charge to take the Spoil, and to take the Prey, and to tread them down like the Mire of the Streets.</q> Mark it, here is <hi>Vocabula Dolentis,</hi> O <hi>Aſſyrian!</hi> As if he had ſaid, It grieves me to Employ ſuch Wicked Tools againſt my own People, but I cannot help it, their Sins are ſo great as even force me to it.</p>
+            <p>
+               <hi>The Aſſirian is my Rod; but 'tis a ſign I am angry indeed, when I make uſe of ſuch Rods.</hi> — Well, God ſent the Aſſirians amongſt us, but he has counter<g ref="char:EOLhyphen"/>manded them that we may make this uſe of it, to lay every one his own Sins to heart.— Oh that the Nation would hear that voice crying loud in their ears, <hi>Go and ſin no more, leſt a worſe thing come upon you.</hi>
+            </p>
+            <p n="6">6thly. Oh then we ſhould learn by this (and many other examples) to have a care of ſuch wicked practiſes, to plot and contrive againſt Govern<g ref="char:EOLhyphen"/>ments which being ſhame in this World, and without the Infinite Mercy of God in the blood of Chriſt, Eternal Torments in the other. <hi>Felix quen ſaciunt aliena paricula cautum. Solomon</hi> the wiſeſt of Men ſaid it before me, and I by the Grace of God (though the unworthieſt of Men) will ſay it af<g ref="char:EOLhyphen"/>ter him. <hi>Prov</hi> 24.21, 22. <q>My Son fear thou the Lord, and the King, and meddle not with them that are given to change, for their Calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both.</q> You ſee what Ruine has moſt deſervedly overtaken them that deſired a Change, a ſad Change: It would have been a Change from Liberty to Slavery; a Change from being Engliſh Subjects, under the beſt of Kings, to be French
+<pb n="27" facs="tcp:106144:14"/>Vaſſals under the worſt of Tyrants. But my Beloved I hope, nay I believe nay I know better things of you; I am confident there is not one in this Congregation but has an <hi>Engliſh</hi> heart, and knows a great deal better then to joyn with ſuch a Virmin that delight not Peace, but are always hatch<g ref="char:EOLhyphen"/>ing and contriving Miſchief; the Good Lord either convert them or deſtroy them; either ſhew them the Evil of their ways, for their thorough and ef<g ref="char:EOLhyphen"/>fectual conviction, or haſten their confuſion in their ways, that they may be no longer a Plague to this poor and long harraſed Land. Give me leave to commend one Scripture to your ſerious conſideration, and the Lord give you Grace to have it always in your eye, and imprinted upon your hearts, 1 Theſ. 4.11. <hi>And that ye ſtudy to be quiet, and to do your own buſineſs, and to work with your own hands, as we commanded you;</hi> Be Ambitious to be quiet, ſo is the Greek; ſome think it their honour to be embroiled in contrivances and Conſpiracies; but oh! do you account it your greateſt honour, your chief<g ref="char:EOLhyphen"/>eſt glory, to be at Peace, and to do, <hi>Ta Idia,</hi> that which properly belongs to you, and let Governours and Governments alone.</p>
+            <p n="7">7thly. We may learn, That though men purpoſes, 'tis God alone that diſpoſes; hence Men may conſult, and lay their heads together to Plot, but without God's permiſſion, all their Plotting will be but weaving <hi>Penelope</hi>'s thread; or as the <hi>Trojans</hi> laſt effort againſt the <hi>Graecians,</hi> which the Poet thus elegantly ſets forth, <hi>Tela manu miſeri jactabant unita Teutri.</hi> Though God may ſuffer them to prevail againſt their fellow ſinners; yet we no where read they came to any effect againſt his own People; for he that watches over <hi>Iſrael</hi> neither ſlumbers nor ſleeps; and he hides all his in the hollow of his hand, and therefore the ſons of violence cannot come near to hurt them; and their ſecurity from the deſigns of the wicked, is made as firm as can be, being ſigned with the Lords own hand, Iſa. 54.17. <hi>No wea<g ref="char:EOLhyphen"/>pon that is formed againſt thee ſhall proſper, and every tongue that ſhall riſe againſt thee in Judgment, thou ſhalt condemn; this is the heritage of the Servants of the Lord, and their righteouſneſs is of me, ſaith the Lord.</hi> Men may whet their Sword, and bend their Bows too ſhoot at People far better than themſelves, but the Lord will not ſuffer them to bring their wicked deſigns to paſs: Proud <hi>Pharoah</hi> thought himſelf cock ſure of ſwallowing up <hi>Iſrael,</hi> and of being enriched by them; when he vauntingly cryed out (not having re<g ref="char:EOLhyphen"/>ſpect, as few ſuch deſigns have, to the over-ruling powers Above) Exod. 15.9, 10. <hi>The Enemy ſaid, I will purſue, I will overtake, I will divide the ſpoil, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Luſt ſhall be ſatisfied upon them; I will draw the Sword, my hand ſhall de<g ref="char:EOLhyphen"/>troy them. Thou didſt blow with thy wind, the Sea covered them, they ſank as
+<pb n="28" facs="tcp:106144:15"/>lead in the mighty Waters.</hi> He ſaid he would purſue them, and ſo he did, elſe how ſhould he overtake them? he ſaid he would overtake them, and ſo he did, elſe how ſhould <hi>Iſrael</hi> be ſpectators (as they were) of his dread<g ref="char:EOLhyphen"/>ful and moſt remarkable deſtruction; but for dividing the ſpoil, and draw his ſword, and having his Luſt ſatisfyed upon them, oh he miſſed of that.</p>
+            <p n="8">8thly. Oh, then we may learn, the danger is never the greater to the People of God, tho' many Enemies engage againſt them. <hi>There were more than Forty of this Conſpiracy,</hi> and yet <hi>Paul</hi> preſerved from being hurt by their Curſed Deſign: As 'tis all one with God, to deſtroy his Enemies by few or by many; ſo 'tis all one with him to preſerve his People from ma<g ref="char:EOLhyphen"/>ny of their Enemies as from few. God knows how many Forties were in this Conſpiracy we are commemorating this day; and yet our Soveraign is ſafe, the Land is ſafe, and the Proteſtant Religion I hope ſecured, tho' many have entered into a Helliſh Combination to undermine it: This was <hi>David</hi>'s comfort and ſupport, notwithſtanding the innumerable company of his Enemies, Pſal. 118.10, 11, 12, 13. <hi>All Nations compaſſed me about, but in the name of the Lord will I deſtroy them; they compaſſed me about, yea they compaſſed me about, but in the name of the Lord will I deſtroy them. They com<g ref="char:EOLhyphen"/>paſſed me about like bees, they are quenched as the fire of Thorns, for in the name of the Lord I will deſtroy them. Thou haſt thruſt ſore at me that I might fall, but the Lord helped me. David</hi> ſpeaks here of his Enemies diſtributively, they were of all Nations; and then he ſpeaks of them collectively, as united in one man. <hi>Thou haſt thruſt ſore at me, but yet the Lord helped him, and in his name he deſtroyed</hi> (that is overcame) <hi>them all.</hi> We may apply it to the preſent caſe, the <hi>French,</hi> the <hi>Iriſh,</hi> and too many of the <hi>Engliſh,</hi> encompaſſed our Sovereign about, but God has helped him, and ſet him above the reach of all their Mallice; and our King does comfortably experience what his Predeceſſor did before him, <hi>Pſalm</hi> 27.2.3. <q>When the wicked, even my enemies and my foes, came upon me to eat up my Fleſh, they ſtumbled and fell. Though an Hoſt ſhould incamp againſt me, my heart ſhall not fear: Though War ſhould riſe againſt me, in this will I be confident.</q> The Almighty has brought down his Enemies under his feet, and made him confident in his ſaving health, and oh that we could bleſs his holy Name for it.</p>
+            <p n="9">9thly. We ſhould then learn not to be afraid of our Enemies, let their malice be never ſo Potent, let their power be never ſo Rampant; God can ſoon cut their horns, he can ſoon ſmite them on the cheek-bone, and break out all their Teeth. Hear what the Prophet ſays, <hi>Iſa.</hi> 8.9, to 15, <q>Aſſo<g ref="char:EOLhyphen"/>ciate
+<pb n="29" facs="tcp:106144:15"/>your ſelves o ye people, and ye ſhall be broken in pieces, <hi>&amp;c.</hi>
+               </q> There is nothing more unbecoming Chriſtianity, than to fear the power of Ad<g ref="char:EOLhyphen"/>verſaries, how great ſoever; nay, there can be nothing more affronting un<g ref="char:EOLhyphen"/>to God; for we cannot fear them, but we muſt diſtruſt him, and the effect of that will be, that he may juſtly leave us to ſtumble and fall and be brok<g ref="char:EOLhyphen"/>en and ſnared and taken; we are therefore commanded here to ſanctify the Lord of Hoſts, that is to give Glory to the Lord of Hoſts, by believing in, and firmly relying on his power, that he can, and his goodneſs that he will, ſave us from the greateſt rage of our Enemies; and if we thus ſanctify God, God will bleſs us and be a Sanctuary to us, ay, and a pleaſant one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo; and will give us peace in his own good time, therefore we need not we ought not to fear, but rather argue for our encouragement and confi<g ref="char:EOLhyphen"/>dence in the Lord, with the Apoſtle, 2 <hi>Cor.</hi> 1.10. <q>Who delivered us from ſo great a death, and doth deliver; in whom we truſt, that he will yet deliver us: Oh, the Great God has delivered our King and Kingdoms, and he is even now delivering us, and in him we truſt, that he will yet de<g ref="char:EOLhyphen"/>liver us from all further Plots and Conſpiracies.</q>
+            </p>
+            <p n="10">10thly. Oh! Then we ſhould Learn to Pray for our Soveraign; This is the Apoſtolical Injunction. 1 Tim. 1.2.3. <q>I exhort therefore, that firſt of all, ſupplications, prayers, interceſſions, and giving of thanks be made for all men: For Kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godlineſs and honeſty. For this <hi>is</hi> good and acceptable in the ſight of God our Saviour.</q> Oh! has our King ſo many Enemies, have ſo many Plots been laid for his precious Life, have the <hi>Bulls</hi> of <hi>Baſhan</hi> been Roaring againſt him; how ought we then to pray and pray hard for him; how ought we to bear him upon our hearts before the Lord, that he would keep him and be a Canapy of protection over him; for indeed in Praying for him we pray for our ſelves, for our Religion, for our Liberties, and for all that is Dear to us; for under God they all depend on him; if he be taken away, Oh, what will become of us. 'Twas a black day when our Famous Queen dyed; but Oh, it would be much blacker if he ſhould be gone too. Then we might in Sorrow of Heart ſay as once <hi>Job</hi> did, Cap. 30.31. <hi>My harp is turned into mourning, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Organ into the voice of them that weep.</hi> Surely our Joy would be turn'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto ſorrow, our light into darkneſs, and all our pleaſant things would be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id waſt. When he goes into <hi>Flanders,</hi> Oh! Let us ſend up our Prayers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith ſtrong Cries and Groans to <hi>Jehovah</hi> the God of Armies, that he will
+<pb n="30" facs="tcp:106144:16" rendition="simple:additions"/>command his Hoſt of Angels to Encamp round about him, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his Enemies may have power to touch him. That he may go <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Name and ſtrength of the Lord, the Lord mighty in Battel, an<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> turn Laden with the plentiful experiences of his Goodneſs.</p>
+            <p n="11">
+               <hi>11thly.</hi> Then this ſhould teach us to be united. Are there ſo m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Conſpirators, more then forty, ye then many forty's of them, and are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Unanimous in their wicked deſigns, and ſhall not we be united in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way. Pſal. 133.1. <hi>Behold, how good and how pleaſant it is for brethren to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> together in unity.</hi> And as it is moſt pleaſent ſo it is moſt ſafe. For <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diviſible eſt Corruptibile.</hi> Oh! how excellent was <hi>Joſephs</hi> advice. Gen. 45. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>So he ſent his brethren away, and they departed: and he ſaid unto them, ſee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ye fall not out by the way.</hi> The Lord help us to mind and follow this go<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Counſel, now in this great and Critical day that is come upon us. Oh! <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the two ſticks may Cement and become one again, if it be the Lords b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſed will.</p>
+            <p n="12">12thly. And laſtly, Oh, then we ſhould learn to ſet the Crown of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Deliverance upon Gods own head and give him the praiſe and Gl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of it; Who hath delivered his ſervant from the hurtful Sword. Pſal. 98. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. <hi>O ſing unto the Lord a new ſong, for he done marvellous things: his right h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and his holy arm hath gotten him the victory. The Lord hath made known his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vation: his righteouſneſs hath he openly ſhewed in the ſight of the heathen.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> arm, is here meant the ſtrength and power of God; by his right hand, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meant his glorious Majeſty, that has appear'd in ſo wonderful a man<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this day; So that we may all cry out in the language of the Church. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 124.6, 7, 8. <q>Bleſſed be the Lord, who hath not given us as a Prey <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their teeth. Our Soul is eſcaped as a bird out of the ſnare of the Fowl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the ſnare is broken, and we are eſcaped. Our help is in the name of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord, who made Heaven and Earth;</q> Oh, that we could praiſe him inde<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for this never to be forgotten mercy, with our Lips and in our Lives; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>membring always that great word, <q>Whoſo offereth Praiſe, Glorifie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me, and to him that ordereth his Converſation aright, will I ſhew t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Salvation of God.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106144:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
